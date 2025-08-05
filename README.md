@@ -89,11 +89,10 @@ Features:
 - Built a fully functional AI chatbot hosted on **IBM Cloud** and also Provided **multilingual financial guidance** successfully. 
 - Quiz interaction tested to enhance user learning.
   <img width="1920" height="903" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/3a7b2d1c-1b87-4986-a4e5-16bcb8de4848" />
-  <img width="475" height="706" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/c8332809-9893-40fc-8832-0b98c6cbf234" />    <img width="476" height="704" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/6bf973b6-4f9f-40a6-8dd2-0c0e3e811dfd" />
-
-  <img width="478" height="705" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/734982ae-5bd8-4ee2-9277-39f16d33eafd" />    <img width="474" height="704" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/758c2d14-3920-4539-8bdc-c854afeaec3a" />
-
-  <img width="479" height="705" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/6bcc59a9-9aad-4d69-83ba-73a92515d8e9" />    <img width="476" height="706" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/6097b9f8-b6fe-4b02-9e1c-86190d63edbe" />
+  <img width="476" height="704" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/6bf973b6-4f9f-40a6-8dd2-0c0e3e811dfd" />
+  <img width="478" height="705" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/734982ae-5bd8-4ee2-9277-39f16d33eafd" />
+  <img width="474" height="704" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/758c2d14-3920-4539-8bdc-c854afeaec3a" />
+  <img width="476" height="706" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/6097b9f8-b6fe-4b02-9e1c-86190d63edbe" />
   
 ---
 
