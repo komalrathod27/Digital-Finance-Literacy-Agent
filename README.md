@@ -1,4 +1,4 @@
-# 💡Digital Finance Literacy Assistant  
+# 💡Digital Finance Literacy Agent  
 *Capstone Project for IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies*
 
 This repository documents the capstone project completed during the **IBM SkillsBuild 4-Week Internship on AI & Cloud Technologies**.  
@@ -56,55 +56,54 @@ With the rise of digital payments like UPI, many users lack awareness of safe pr
 - Barriers due to language diversity
   
 ### 💡 Solution Overview
-The **Digital Finance Literacy Assistant** is an AI chatbot built with **IBM Watson Assistant** and deployed entirely on **IBM Cloud**.  
-It provides real-time guidance, multilingual support, and an interactive quiz to test financial knowledge.  
-Features:
+The **Digital Finance Literacy Agent** is Retrieval-Augmented Generation (RAG) based AI developed using **IBM Watson ai**, aimed at educating users about digital finance. It supports multilingual queries (English + Hindi) and provides reliable answers on topics such as:  
 - ✅ UPI Safety Guidance  
 - ✅ Loan & Interest Information  
 - ✅ Budgeting & Saving Advice  
 - ✅ Fraud Reporting Awareness  
-- ✅ Digital Finance Quiz  
 
 ---
 
 ## ⚙️ Technology Stack
-- **Cloud Platform:** IBM Cloud (Lite Plan)  
-- **AI Service:** IBM Watson Assistant  
-- **Languages Supported:** English, Hindi (scalable to others)  
-- **Frontend:** IBM Watson Web Chat (Preview link)  
+- **IBM Watsonx.ai** (Agent Lab, ReAct + LangGraph)
+- **IBM Granite / Mistral-Large foundation models**
+- **Document Retrieval Tool + Prompt Tool**
+- **IBM Cloud Lite account for deployment**
+- **Multilingual language model (supports Hindi + English)**
 
----
+  ---
 
 ## 🚀 Project Workflow
-1. Created a Watson Assistant instance in IBM Cloud  
-2. Designed intents and actions for UPI, Loans, Budgeting, and Fraud Awareness  
-3. Configured personalized greetings and context handling  
-4. Added a Financial Literacy Quiz feature  
-5. Deployed and tested using IBM Cloud’s Web Chat Preview  
-6. Documented and prepared presentation as per SkillsBuild requirements  
+1. Created a sandbox project on IBM Cloud
+2. Opened Watsonx.ai > AI Agent Lab
+3. Built agent with ReAct + LangGraph architecture
+4. Selected Granite or Mistral-Large foundation model
+5. Enabled some tools like Document Retrieval and Prompt Tool
+6. Configured multilingual instructions for Hindi & English
+7. Tested agent with queries like “What is UPI?” and “मैं UPI से पैसे कैसे भेजूं?”
+8. Saved, deployed, and previewed agent successfully
 
 ---
 
 ## 📊 Results
-- Built a fully functional AI chatbot hosted on **IBM Cloud** and also Provided **multilingual financial guidance** successfully. 
-- Quiz interaction tested to enhance user learning.
-  <img width="1920" height="903" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/3a7b2d1c-1b87-4986-a4e5-16bcb8de4848" />
-  <img width="476" height="704" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/6bf973b6-4f9f-40a6-8dd2-0c0e3e811dfd" />
-  <img width="478" height="705" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/734982ae-5bd8-4ee2-9277-39f16d33eafd" />
-  <img width="474" height="704" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/758c2d14-3920-4539-8bdc-c854afeaec3a" />
-  <img width="476" height="706" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/6097b9f8-b6fe-4b02-9e1c-86190d63edbe" />
-  
+- Built a fully functional AI agent using **IBM watsonx.ai** that Provides **multilingual financial guidance** successfully and deployed with **IBM Cloud lite** environment. 
+<img width="1920" height="905" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/cb5a50c2-5683-4e96-87ff-e60d89e1f8a5" />
+<img width="1920" height="906" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/132f7b16-2b56-4257-9cc8-9a0e99ea1e0d" />
+<img width="1920" height="906" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/4fa5eeb1-6e9d-4853-beb4-f9afd61e8687" />
+<img width="1920" height="907" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/e064f63e-8cdc-4904-a22c-73ab0d5a887d" />
+<img width="1920" height="900" alt="Screenshot (197)" src="https://github.com/user-attachments/assets/1294417a-a142-4295-a84d-6eb8f39d8229" />
+
 ---
 
 ## 📁 Repository Contents
 - `README.md` → Project Documentation  
-- `screenshots/` → Images of working chatbot  
-- `Digital finance Literacy Assistant.pdf` → Final Project Presentation  
+- `screenshots/` → Images of working agent  
+- `Digital finance Literacy Agent.pdf` → Final Project Presentation  
 
 ---
 
 ## 📜 References
-- [IBM Watson Assistant Documentation](https://cloud.ibm.com/docs/watson-assistant)  
+- [IBM Watson Documentation](https://cloud.ibm.com/docs/watsonx)
 - [IBM Cloud Free Lite Plan](https://www.ibm.com/cloud/free)  
 - [Reserve Bank of India – Digital Payment Security](https://www.rbi.org.in)  
 - [National Centre for Financial Education](https://www.ncfe.org.in)  
